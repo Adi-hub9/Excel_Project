@@ -168,5 +168,5 @@ This project demonstrates how Excel can be used for **data analysis, visualizati
 Add your dashboard screenshot here:
 
 ```markdown
-![Excel Dashboard](your-image-link-here)
+![Excel Dashboard](https://github.com/Adi-hub9/Excel_Project/blob/main/Excel_Project_ss.png)
 ```
