@@ -163,10 +163,4 @@ This project demonstrates how Excel can be used for **data analysis, visualizati
 
 # 7. Screenshots / Demo
 
-### Excel Dashboard Overview
-
-Add your dashboard screenshot here:
-
-```markdown
-![Excel Dashboard](https://github.com/Adi-hub9/Excel_Project/blob/main/Excel_Project_ss.png)
-```
+![Alt text for the image](https://github.com/Adi-hub9/Road-Accidents-Analysis-Dashboard/blob/main/Powerbi-1.png)
